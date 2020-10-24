@@ -1,0 +1,3 @@
+name: SignDeposit
+main: work.xeltica.signdeposit.Main
+version: 1.0.0
